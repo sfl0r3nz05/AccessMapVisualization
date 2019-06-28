@@ -1,7 +1,7 @@
 ### Access Map Visualization
 Access Map Visualization is a project based on [IPew Attack Map](https://github.com/hrbrmstr/pewpew)
 
-![img](Access-Mappng)
+![img](Access-Map.png)
 
 (a collaborative effort by @alexcpsec & @hrbrmstr)
 
