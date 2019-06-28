@@ -3,6 +3,6 @@ Access Map Visualization is a project based on [IPew Attack Map](https://github.
 
 ![img](Access-Map.png)
 
-(a collaborative effort by @alexcpsec & @hrbrmstr)
-
-Why should security vendors be the only ones allowed to use silly, animated visualizations to "compensate"? Now, **you** can have your very own IP attack map that's just as useful as everyone else's.
+* This visualization is synchronized with [conpot](https://github.com/mushorg/conpot)
+* The honeypot logs are downloaded on conpot.json
+* A key to identify the ip address location must be created from [ipinfodb](https://ipinfodb.com/) in *const apikey*, e.g. const apiKey = "2ea8993acc6dcfee7b2a4a9ac1d14888f002f19a028b7751bf02f84dcdd45951";
